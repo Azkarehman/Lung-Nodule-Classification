@@ -1,4 +1,4 @@
-## Lung Nofule Texture and Malignancy Classification
+## Lung Nodule Texture and Malignancy Classification
 
 
 Lung cancer classification in screening computed tomography (CT) scans is one of the most crucial tasks for early detection of this disease. Many lives can be saved if we are able to accurately classify malignant/cancerous lung nodules. Consequently, several deep learning based models have been proposed recently to classify lung nodules as malignant or benign. Nevertheless, the large variation in the size and heterogeneous appearance of the nodules makes this task an extremely challenging one.
