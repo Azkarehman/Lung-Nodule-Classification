@@ -24,4 +24,3 @@ Each CT scan was annotated by four experienced thoracic radiologists altogether.
 After multiple experimentation, we found the best suitable method for the problem. 
 Cross fold validation was done and our results were reported to be 93.5%
 
-Note: **The methodology developed has not been published yet, the publication is in INPROGRESS status.
